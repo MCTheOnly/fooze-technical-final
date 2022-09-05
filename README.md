@@ -14,3 +14,6 @@ library/term-name/book-name
 
 Task 5
 Shortcodes zaimplementowane na stronie głównej.
+
+Task 6
+Wynik requestu w konsoli
